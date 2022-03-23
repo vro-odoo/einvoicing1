@@ -1,0 +1,4 @@
+[submodule "odoo-india-localization/einvoice"]
+	path = odoo-india-localization/einvoice
+	url = git@github.com:odoo-india-localization/einvoice.git
+	branch = 15.0
